@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="39px" viewBox="0 0 35 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Presentation-Background" transform="translate(-33.000000, -32.000000)">
+            <g id="Group-2" transform="translate(33.000000, 32.000000)">
+                <path d="M1.13907955,6.07553233 C5.72610287,2.28054481 11.6118781,0 18.030303,0 C23.8044662,0 29.1475443,1.8456943 33.5017504,4.9792959 C34.4721469,7.73533038 35,10.6999612 35,13.7878788 C35,25.2665802 27.705976,35.041671 17.5,38.7310791 C7.29402405,35.041671 0,25.2665802 0,13.7878788 C0,11.1054192 0.398334629,8.51599555 1.13907955,6.07553233 Z" id="Combined-Shape" fill="#0089FF"></path>
+                <path d="M5.40259347,28.1725989 C6.96203084,27.2018306 8,25.4721306 8,23.5 C8,20.4624339 5.53756612,18 2.5,18 C2.10146483,18 1.71282999,18.0423883 1.33835798,18.1229025 C1.11579497,16.781665 1,15.4043552 1,14 C1,11.4708238 1.37557265,9.02936724 2.07398929,6.72835905 C6.39889699,3.15022796 11.9483422,1 18,1 C23.444211,1 28.4819703,2.74022606 32.5873647,5.69476471 C33.5023099,8.2933115 34,11.0885349 34,14 C34,16.1865553 33.7192908,18.3075474 33.1919438,20.3289049 C32.6696212,20.1168217 32.0984532,20 31.5,20 C29.0147186,20 27,22.0147186 27,24.5 C27,26.2213711 27.9665232,27.7169986 29.3864863,28.4737992 C26.4627147,32.5845322 22.3267461,35.7730306 17.5,37.5178746 C12.5560021,35.7306447 8.3367501,32.4287696 5.40259347,28.1725989 Z" id="Combined-Shape" stroke="#FFFFFF" fill="#0089FF"></path>
+                <path d="M8.5,25.5 L26.5,25.5" id="Line-4" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M6.5,19.5 L27.5,21.5" id="Line-4" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <polyline id="Line-4" stroke="#FFFFFF" stroke-linecap="square" points="9 18 11 14 15.3783583 16.7789241"></polyline>
+                <circle id="Oval-4" fill="#FFFFFF" cx="13.5" cy="12.5" r="1.5"></circle>
+                <polygon id="Line-4" stroke="#FFFFFF" fill="#FFFFFF" stroke-linecap="square" points="17.5 18.9816538 26.4070627 19.8121069 26.7721232 17.802868 17.5 17.5493979"></polygon>
+                <polygon id="Line-4" stroke="#FFFFFF" fill="#FFFFFF" stroke-linecap="square" points="17.5078479 23.9506021 25.6142389 23.9506021 25.8445341 22.8692974 17.5078479 22.1115828"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
