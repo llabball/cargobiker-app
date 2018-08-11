@@ -1,16 +1,25 @@
-var JasonAppDocModel = require('../../server/utils/JasonAppDoc')
-var config = require('../../build/config')
+var JasonAppDocModel = require('./JasonServerDoc')
+var config = require('./config')
+var readfiles = require('recursive-readdir')
 var fs = require('fs')
   
-var screens = []
-fs.readdirSync(__dirname + '/views/').forEach(function (filename) {
-  screens.push(JSON.parse(fs.readFileSync(__dirname + '/views/' + filename, 'utf8')))
-})
+readfiles(__dirname + '/../src/views/').then(
+  function(files) {
+    uploadScreens(files)
+  },
+  function(error) {
+    console.error('[ERR] could not read view files: ', error)
+  }
+)
 
-uploadScreens(screens)
-
-function uploadScreens (screens) {
-  screens.forEach(function (screen) {
+function uploadScreens (files) {
+  files.forEach(function (file_path) {
+    try {
+      var screen = JSON.parse(fs.readFileSync(file_path, 'utf8'))
+    } catch (error) {
+      console.error('[ERR] could parse screen file content to JSON: ', error)
+      return
+    }
     var appDoc = new JasonAppDocModel()
 
     appDoc.urlRoot = config.server.screensUrl
