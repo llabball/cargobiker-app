@@ -19,6 +19,7 @@ $ cp build/config.example.js build/config.js
 ```
 
 Configure your parametersin `build/config.js`!
+
 ```
 {
   server: {
