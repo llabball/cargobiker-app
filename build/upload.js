@@ -48,3 +48,22 @@ function uploadScreens (files) {
     }
   })
 }
+
+// Images must be uploaded
+// have done it menually to prevent uploading it every time 
+//
+// readfiles(__dirname + '/../src/imgs/').then(
+//   function(files) {
+//     files.forEach(function (file_path) {
+//       try {
+//         var screen = JSON.parse(fs.readFileSync(file_path, 'utf8'))
+//       } catch (error) {
+//         console.error('[ERR] could parse screen file content to JSON: ', error)
+//         return
+//       }
+//     })
+//   },
+//   function(error) {
+//     console.error('[ERR] could not read image files: ', error)
+//   }
+// )

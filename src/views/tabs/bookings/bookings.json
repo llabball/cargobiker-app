@@ -35,7 +35,7 @@
                 "width": "35",
                 "height": "39"
               },
-              "url": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/logo.png"}
+              "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/logo.png"}
           },
           "sections": [
             {
@@ -111,7 +111,7 @@
               "items": [
                 {
                   "type": "image",
-                  "url": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/lastenrad.jpg",
+                  "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/lastenrad.jpg",
                   "style": {
                     "width": "100%",
                     "corner_radius": "10"
@@ -245,7 +245,7 @@
                   },
                   {
                     "type": "button",
-                    "url": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/btn_booking.png",
+                    "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/btn_booking.png",
                     "style": {
                       "width": "100",
                       "height": "100"
@@ -272,7 +272,7 @@
               },
               "items": [
                 {
-                    "image": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/tab-ticket-filled.png",
+                    "image": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/tab-ticket-filled.png",
                     "text": "Reservierungen",
                     "style": {
                         "height": "25"
@@ -280,7 +280,7 @@
                     "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:entry"
                 },
                 {
-                    "image": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/tab-place-marker.png",
+                    "image": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/tab-place-marker.png",
                     "text": "Standort",
                     "style": {
                         "height": "25"
@@ -288,7 +288,7 @@
                     "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:location"
                 },
                 {
-                    "image": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/tab-spiral-bound-booklet.png",
+                    "image": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/tab-spiral-bound-booklet.png",
                     "text": "Logbuch",
                     "style": {
                         "height": "25"
@@ -296,7 +296,7 @@
                     "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:log"
                 },
                 {
-                    "image": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/tab-stack-of-photos-filled.png",
+                    "image": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/tab-stack-of-photos-filled.png",
                     "text": "Galerie",
                     "style": {
                         "height": "25"
@@ -304,7 +304,7 @@
                     "url": "https://couchdb.i8z.de/jason-apps/app:cargobiker:photos"
                 },
                 {
-                    "image": "http://webdav:XNU3R459@localhost:8080/cargobiker-app/src/imgs/tab-request-service-filled.png",
+                    "image": "https://couchdb.i8z.de/jason-apps/app:cargobiker:imgs/tab-request-service-filled.png",
                     "text": "Wartung",
                     "style": {
                         "height": "25"
